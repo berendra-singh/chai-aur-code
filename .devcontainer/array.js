@@ -19,7 +19,7 @@ console.log(arr)
 console.log(arr.includes(69))// janne ke liye element hai ya nahi
 console.log(arr.indexOf(69))// index janne ke liye
 
-const newArr=arr.join()// tring me badalkar join karne ke liye
+const newArr=arr.join()// string me badalkar join karne ke liye
 console.log(newArr)
 console.log(arr)
 
